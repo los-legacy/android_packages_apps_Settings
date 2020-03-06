@@ -3087,6 +3087,8 @@
 
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
     <string name="firmware_version">Android version</string>
+    <!-- About phone screen, los maintainer label  [CHAR LIMIT=40] -->
+    <string name="los_maintainer">Maintainer</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=60] -->
     <string name="security_patch">Android security patch level</string>
     <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
